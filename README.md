@@ -3,6 +3,7 @@
 A new Flutter project.
 # Blinkit_ui_clone
 
+![Screenshot 1](Heading.png)
 
 ## Getting Started
 
