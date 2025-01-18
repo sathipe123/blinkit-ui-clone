@@ -1,19 +1,46 @@
-# sahil_portfolio
+# BlinkIt UI Clone
 
-A new Flutter project.
-# Blinkit_ui_clone
+A Flutter project replicating the BlinkIt app’s user interface. This project focuses solely on creating a clean, static UI with a well-maintained codebase and modular design.
 
-![Screenshot 1](Heading.png)
+---
 
-## Getting Started
+## 📌 About the Project
 
-This project is a starting point for a Flutter application.
+This project demonstrates expertise in Flutter development by recreating the BlinkIt app's user interface. While the project is static and does not include backend integration, it is designed with a professional approach, focusing on a clean code structure and modular UI components.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🎯 Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Static UI**: Implements a pixel-perfect replication of the BlinkIt app UI.
+- **Cross-Platform Design**: Compatible with both Android and iOS platforms.
+- **Reusable Components**: Built using Flutter widgets to encourage reusability and ease of updates.
+- **Responsive Layouts**: Optimized for different screen sizes and resolutions.
+
+---
+
+## 📸 Screenshots
+
+| Home Screen 
+|-------------
+| ![Home Screen](Heading.png) 
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally on your machine.
+
+### Prerequisites
+
+Ensure you have the following installed:
+- **Flutter SDK** ([Install Flutter](https://flutter.dev/docs/get-started/install))
+- **Dart SDK** (comes with Flutter installation)
+- **Android Studio** or **VS Code** (with Flutter and Dart plugins)
+- A physical device or emulator to test the application
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sathipe123/blinkit-ui-clone.git
